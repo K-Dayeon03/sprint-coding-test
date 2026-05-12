@@ -45,7 +45,7 @@
 
 <br>
 
-## :open_file_folder: Repository
+## 📂 Repository
 ```
 📂 week1
  ┗ 📂 이름
