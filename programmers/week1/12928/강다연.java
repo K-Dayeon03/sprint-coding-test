@@ -15,5 +15,5 @@ class Solution {
         //IntStream.rangeClosed(0, 10)은 0부터 10까지(끝값 포함) 순차 스트림을 만듭니다.
         return IntStream.rangeClosed(1, n).filter(x -> n % x == 0).sum();
 
-    }
+    } 
 }
